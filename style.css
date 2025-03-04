@@ -23,3 +23,8 @@
 li {
     list-style: none;
 }
+
+body p {
+    margin-bottom: 1px;
+    margin-top: 10px;
+}
